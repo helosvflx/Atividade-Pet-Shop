@@ -1,1 +1,40 @@
-# Atividade-Pet-Shop
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pet Shop Patinhas Felizes</title>
+</head>
+<body>
+    <h1>Olá! Somos o Pet Shop Patinhas Felizes</h1>
+    <h3>Confira nossos serviços:</h3>
+    <ul>
+        <li>🛁Banho</li>
+        <li>✂️Tosa</li>
+        <li>🩺Consultas Veterinárias</li>
+    </ul>
+    <hr style="color:black";>
+    <h2>Banho:</h2>
+<img src="https://media.istockphoto.com/id/1188690349/pt/foto/funny-portrait-of-a-welsh-corgi-pembroke-dog-showering-with-shampoo-dog-taking-a-bubble-bath.jpg?s=612x612&w=0&k=20&c=tYtDhrQUUNWDIYwb9Tv_bSSzSjtSBXKnjiWQkzLDvEs=" alt="cachorro no banho" width="300">
+<p>Seu animal de estimação ficará mais feliz e confortável com um belo banho.</p>
+
+<h2>Tosa:</h2>
+<img src="https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2024/01/11/2008554773-tosa-animal.jpg" alt="cachorro na tosa" width="300">
+<p>Depois do banho, seu animal de estimação passaria para uma tosa (opcional) para aparar <br>os pelos dele.</p>
+
+<h2>Consultas Veterinárias:</h2>
+<img src="https://www.agrosete.com.br/wp-content/uploads/2022/05/quando-levar-o-cachorro-ao-veterinario1.jpg" alt="cachorro no veterinário" width="300">
+<p>E também não podia faltar sua consulta veterinária. Nessa consulta, o veterinário (a) <br> verá a saúde do seu animal de estimação.</p>
+
+<hr>
+
+<p>Telefone para contato: <b>+55 84 99165-8695</b></p>
+<p>Email: <b>patinhasfelizes@gmail.com</b></p>
+<p><a href="https://pipapetresort.com.br/banho-tosa/?gad_source=1&gad_campaignid=22839719274&gbraid=0AAAABAghG2gqRbWiOEG8ix2A9_bT3F_79&gclid=CjwKCAjwqKzEBhANEiwAeQaPVR91DyEUWMuFvZ1Q_8bdxLkuuKUy71rIUKQY5kI0iIgI8ZDLuEZLrxoCyE8QAvD_BwE" target="_blank">Clique aqui</a> para fazer seu agendamento</p>
+
+<hr>
+
+&copy; 2025 Patinhas Felizes | Cuidando com Amor
+</body>
+</html>
