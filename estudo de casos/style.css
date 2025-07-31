@@ -1,0 +1,18 @@
+body{
+    background-color: #fff59d;
+    font-family: "Parisienne", cursive;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Parisienne&display=swap');
+h1{
+     font-family: "Parisienne", cursive;
+
+
+}
+h3{
+    font-family: "Parisienne", cursive;
+}
+
+hr{
+    color:black;
+}
